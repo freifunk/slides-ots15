@@ -1,6 +1,9 @@
-# Freifunk
+#
 
-![freifunk](logo.png)
+![freifunk](freifunk.svg)
+
+# How to set up your own Freifunk router
+## André Gaul, [@andrenarchy](https://twitter.com/andrenarchy), Freifunk Berlin
 
 ---
 
