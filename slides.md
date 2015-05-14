@@ -1,4 +1,4 @@
-#
+# 
 
 ![freifunk](freifunk.svg)
 
@@ -26,6 +26,12 @@
 # Basic idea: mesh networks
 
 ![adhoc network](adhoc.png)
+
+ * your router at home doesn't want to be alone
+ * it's not only about internet access
+ * Freifunk continues to work when the internet is down
+ * hard time for fans of censorship
+ * self-healing: one router goes down -> another one can fill the gap
 
 ---
 
